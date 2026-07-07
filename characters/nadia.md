@@ -4,7 +4,7 @@
 - **Role:** Main Cast / System Analyst & Mathematician
 - **Archetype:** Highly intelligent, deeply logical older woman struggling against emerging human vulnerabilities
 - **Origin:** Earth (Reconstituted on Descendus from DNA and life memories; joined the group in Sector 4)
-- **Current Status:** Navigating the Sixth Gate (Sector of Onus) alongside Ab and the crew
+- **Current Status:** Sacrificed herself, for the others at the m.TAL chessboard in Sector 6. She is gone from the story.
 </character_core>
 
 ---

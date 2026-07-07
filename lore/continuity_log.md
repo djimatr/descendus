@@ -33,3 +33,5 @@
 - Key things that MUST happen or remain true in this rewrite: 
 -Abernathy now knows that Virgil is an android as they had a talk about it earlier in the previous sector.
 -Septis is a city with 7 gates and represents the equivilent of Dante's first circle of hell the city of seven virtues.
+-They passed the Sixth gate but Nadia was sacrificed.
+

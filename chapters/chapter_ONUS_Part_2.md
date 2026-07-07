@@ -37,3 +37,4 @@
 * **Execution Strategy:** Process these beats sequentially. Do not rush the pacing or skip to the exit prematurely.
 * **Style Constraint Integration:** Cross-reference `/templates/scribe_rules.md` and `/templates/voice_sample.md` throughout the generation. 
 * **Character Integrity:** Ensure Nero stays volatile but submissive, Nadia remains quietly attached to Ab, and Virgil maintains an objective, flat mechanical delivery despite his protective choices.
+
